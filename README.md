@@ -14,6 +14,8 @@ Jupyter notebook - https://ipython.org/install.html
 
 [Jupyter Notebook](https://ipython.org/) - Web framework used
 
+[H20 Flow](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/flow.html) - Machine learning interface used to build models
+
 ## Authors 
 
 Kyle Knoebel - https://www.linkedin.com/in/kyle-knoebel-ab846725/
